@@ -1,7 +1,7 @@
 Rainbow Heart
 ---------
 
-A collection of rainbow heart animation for different kinds of purpose. In both SVG and GIF(opaque) formats.
+A collection of rainbow heart animation for different kinds of purpose. In both SVG and GIF ( opaque / transparent x white / black ) formats.
 
 ![heartbeat](https://github.com/loadingio/rainbow-heart/blob/master/dist/gif/opaque/heartbeat-white.gif?raw=true)
 ![breath](https://github.com/loadingio/rainbow-heart/blob/master/dist/gif/opaque/breath-white.gif?raw=true)
