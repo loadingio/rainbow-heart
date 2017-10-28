@@ -12,6 +12,7 @@ A collection of rainbow heart animation for different kinds of purpose. In both 
 ![bounce](https://github.com/loadingio/rainbow-heart/blob/master/dist/gif/opaque/bounce-white.gif?raw=true)
 ![rubber](https://github.com/loadingio/rainbow-heart/blob/master/dist/gif/opaque/rubber-white.gif?raw=true)
 
+all images are zipped into a single file, which can be downloaded [here](https://github.com/loadingio/rainbow-heart/blob/master/dist/gif/opaque/rubber-white.gif?raw=true).
 
 LICENSE
 ---------
