@@ -16,4 +16,4 @@ A collection of rainbow heart animation for different kinds of purpose. In both 
 LICENSE
 ---------
 
-CC-BY 4.0, released by loading.io.
+This icon set is released under CC0 license by loading.io.
